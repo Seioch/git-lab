@@ -1,4 +1,9 @@
 *.class
+bin/
+build/
+.classpath
+.project
+.nbproject
 
 # Package Files #
 *.jar
